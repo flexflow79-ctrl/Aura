@@ -1,5 +1,8 @@
-import AuraApp from "./AuraHomeScreen";
+import AuraHomeScreen from "./AuraHomeScreen";
 
 export default function App() {
-  return <AuraApp />;
+  return <AuraHomeScreen />;
 }
+
+
+
